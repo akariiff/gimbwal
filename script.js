@@ -12,11 +12,11 @@ const messages = [
         image: "https://i.pinimg.com/736x/1e/7c/6f/1e7c6ff7a0c26f7eaefbce683656193d.jpg"
     },
     {
-        text: "pls klik yg kiri",
+        text: "plsss klik yg kiri",
         image: "https://i.pinimg.com/736x/90/73/a9/9073a9359bff531cd830ae7384752934.jpg"
     },
     {
-        text: "terakhir, kalo \"no\" yauda deh",
+        text: "kalo pencet \"no\" lagi aku pundung",
         image: "https://cdn.idntimes.com/content-images/community/2022/11/fromandroid-9e2fd40fe06d227c684a5bc51f5e3eb4.jpg"
     }
 ];
