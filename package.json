@@ -1,7 +1,7 @@
 {
-  "name": "valentine-proposal",
+  "name": "Hari-Raya",
   "version": "1.0.0",
-  "description": "Valentine's Day Proposal Website",
+  "description": "Selamat hari Raya",
   "main": "index.html",
   "scripts": {
     "start": "serve .",
