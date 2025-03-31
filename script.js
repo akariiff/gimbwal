@@ -17,7 +17,7 @@ const messages = [
     },
     {
         text: "terakhir, kalo \"no\" yauda deh",
-        image: "https://i.pinimg.com/736x/a6/43/f5/a643f5a40db387585b56bc767b66fddb.jpg"
+        image: "https://cdn.idntimes.com/content-images/community/2022/11/fromandroid-9e2fd40fe06d227c684a5bc51f5e3eb4.jpg"
     }
 ];
 
@@ -121,8 +121,8 @@ function getFarPosition(containerRect, windowWidth, windowHeight, buttonWidth, b
 }
 
 yesBtn.addEventListener('click', () => {
-    title.innerHTML = "HORE!! i knew you would say vqsghvwegdsbjs";
-    document.querySelector('img').src = "https://media.tenor.com/gUiu1zyxfzYAAAAi/good-night-kiss-kiss.gif";
+    title.innerHTML = "HORE!! Makasih udah mau maafin ya Mischaaaa";
+    document.querySelector('img').src = "https://upload-os-bbs.hoyolab.com/upload/2024/01/09/137652040/586aa1a23ffe39e6955e3d49bd0c59bc_6338591603245794027.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70";
     noBtn.style.display = 'none';
     yesBtn.style.display = 'none';
     bgMusic.play();
